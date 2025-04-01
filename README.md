@@ -87,15 +87,7 @@ aptos move publish
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-[Add your license here]
 
 ## Support
 
 For support, please open an issue in the repository or contact the development team.
-
-## Related Projects
-
-- [MetaMove Frontend](https://github.com/yourusername/metamove-frontend)
-- [MetaMove AI Agent](https://github.com/yourusername/metamove-agent) 

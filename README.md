@@ -12,6 +12,8 @@ This project contains Move smart contracts for token management on the Aptos blo
 aptostokens2/
 ├── sources/      # Move smart contract source files
 │   └── tokenget.move  # Main token contract implementation
+├── test/      # Move smart contract test files
+│   └── test.move  # test file
 ├── build/        # Compiled artifacts
 ├── scripts/      # Deployment and interaction scripts
 ├── tests/        # Test files

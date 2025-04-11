@@ -12,6 +12,8 @@ This project contains Move smart contracts for token management on the Aptos blo
 aptostokens2/
 ├── sources/      # Move smart contract source files
 │   └── tokenget.move  # Main token contract implementation
+├── test/      # Move smart contract test files
+│   └── test.move  # test file
 ├── build/        # Compiled artifacts
 ├── scripts/      # Deployment and interaction scripts
 ├── tests/        # Test files
@@ -87,15 +89,7 @@ aptos move publish
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-[Add your license here]
 
 ## Support
 
 For support, please open an issue in the repository or contact the development team.
-
-## Related Projects
-
-- [MetaMove Frontend](https://github.com/yourusername/metamove-frontend)
-- [MetaMove AI Agent](https://github.com/yourusername/metamove-agent) 
